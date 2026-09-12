@@ -1,0 +1,30 @@
+items: 800
+
+=== 1. option length ===
+  longest option is correct : 222/800 = 0.2775  (chance 0.2000)
+  shortest option is correct: 138/800 = 0.1725  (chance 0.2000)
+  mean length rank of correct: 2.799 (chance 3.000; lower = correct tends to be longer)
+  mean chars, correct   : 33.3
+  mean chars, distractor: 30.5
+
+=== 2. lexical features (correct vs any-option baseline) ===
+  feature       in correct   in random    ratio
+  catch_all         0.0187      0.0110     1.70
+  absolute          0.0338      0.0198     1.71
+  hedge             0.0213      0.0270     0.79
+  numeric           0.1263      0.1265     1.00
+
+=== 3. options-only condition ===
+  letter    model picked    gold
+  A                   27     155
+  B                    9     173
+  C                  221     176
+  D                  193     155
+  E                  350     141
+  accuracy: 0.2863
+
+  most-picked letter: E
+  score if it ALWAYS picked E: 0.1762
+  (if accuracy is close to this, the result may be letter bias
+   rather than any signal read from the option text)
+

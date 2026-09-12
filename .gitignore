@@ -1,0 +1,17 @@
+# The item text comes from commercially published preparation material and is
+# not ours to redistribute. features.json carries the derived quantities the
+# paper reports, under non-invertible ids, and is committed in its place.
+dataset.json
+
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scratch
+*.log
+nohup.out

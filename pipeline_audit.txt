@@ -1,0 +1,39 @@
+unique items audited: 225554
+
+=== 1. answerability ===
+  single_answer           166609   73.87%
+  multi_answer             58883   26.11%
+  no_answer_marker            62    0.03%
+
+=== 2. page furniture leaked into stems ===
+  items with any leak          4    0.00%
+    unit_header                4    0.00%
+
+  --- unit_header examples ---
+    Unit 1 Introduction to General Practice General practice is a primary health care. It is not A. outpatient-based services B. full-service from birth t
+    Unit 1 Common Symptoms and Signs When acute peripheral circulatory failure occurs, the amount of upper gastrointestinal bleeding can reach A. 10%-15% 
+    Unit 1: Fluid imbalance in surgical patients. Abnormal acidic urine occurs in potassium-deficient alkalosis. The reason is A. The excretion of K+ in t
+
+=== 3. shared stems ===
+  items with marker           16    0.01%
+  top banks by shared-stem share:
+    S-002-RespiratoryMedicine                    3/1126     0.27%
+    M-340-Psychiatry                             2/2209     0.09%
+    S-045-HospitalPharmacy                       4/4984     0.08%
+    S-EmergencyNursing                           1/1289     0.08%
+    S-047-Nursing                                6/9635     0.06%
+
+=== 4. option integrity ===
+  clean_ABCDE             179675   79.66%
+  clean_6_options          14947    6.63%
+  duplicate_letters         8316    3.69%
+  none                      7197    3.19%
+  clean_7_options           6819    3.02%
+  gapped_or_odd             5420    2.40%
+  clean_1_options           1691    0.75%
+  clean_4_options           1279    0.57%
+  clean_3_options            134    0.06%
+  clean_2_options             76    0.03%
+
+=== 5. residual Chinese ===
+  items                       38    0.02%

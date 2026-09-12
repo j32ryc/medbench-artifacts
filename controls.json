@@ -1,0 +1,9602 @@
+[
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "shuffle",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "A"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "C"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "D"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "pick": "B"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "pick": "E"
+ },
+ {
+  "control": "swap",
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "pick": "B"
+ }
+]
