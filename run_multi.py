@@ -73,7 +73,8 @@ def ask_local(model: str, prompt: str) -> str:
         "messages": [{"role": "system", "content": SYSTEM},
                      {"role": "user", "content": prompt}],
         "stream": False,
-        # Greedy decoding, and a tight cap since a valid answer is one token.
+        # Greedy decoding. The length cap only stops runaway output; the letter
+        # is parsed from whatever comes back.
         "options": {"temperature": 0, "num_predict": 2000},
     })
     r.raise_for_status()

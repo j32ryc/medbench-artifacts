@@ -1,39 +1,141 @@
 unique items audited: 225554
 
 === 1. answerability ===
-  single_answer           166609   73.87%
-  multi_answer             58883   26.11%
-  no_answer_marker            62    0.03%
+  single_answer                             166609   73.87%
+  multi_answer                               58883   26.11%
+  no_answer_marker                              62    0.03%
 
-=== 2. page furniture leaked into stems ===
-  items with any leak          4    0.00%
-    unit_header                4    0.00%
-
-  --- unit_header examples ---
-    Unit 1 Introduction to General Practice General practice is a primary health care. It is not A. outpatient-based services B. full-service from birth t
-    Unit 1 Common Symptoms and Signs When acute peripheral circulatory failure occurs, the amount of upper gastrointestinal bleeding can reach A. 10%-15% 
-    Unit 1: Fluid imbalance in surgical patients. Abnormal acidic urine occurs in potassium-deficient alkalosis. The reason is A. The excretion of K+ in t
+=== 2. page furniture in stems ===
+  items with any match                           4    0.00%
+    unit_header                                  4    0.00%
 
 === 3. shared stems ===
-  items with marker           16    0.01%
-  top banks by shared-stem share:
-    S-002-RespiratoryMedicine                    3/1126     0.27%
-    M-340-Psychiatry                             2/2209     0.09%
-    S-045-HospitalPharmacy                       4/4984     0.08%
-    S-EmergencyNursing                           1/1289     0.08%
-    S-047-Nursing                                6/9635     0.06%
+  items with a copied vignette               80506   35.69%
+    主治医师总_已加编号.zip                         21546 of 121231   17.77%
+    带编号的json文件（正高）.zip                     58960 of 104323   56.52%
+  banks with no marked item: 6 of 100
+  all banks, by share of marked items:
+    S-125-PainMedicine                                     485 of 495     97.98%
+    S-021-Dentistry                                        988 of 1082    91.31%
+    S-066-OccupationalDisease                              258 of 287     89.90%
+    S-120-CriticalCareMedicine                            1216 of 1362    89.28%
+    S-018-PediatricSurgery                                 403 of 504     79.96%
+    S-015-Urology                                         1115 of 1397    79.81%
+    S-094-ChildHealthCare                                 1201 of 1516    79.22%
+    S-013-CardiothoracicSurgery                           1548 of 1987    77.91%
+    S-069-GeneralInternalMedicine                         2616 of 3373    77.56%
+    S-002-RespiratoryMedicine                              849 of 1126    75.40%
+    S-001-CardiovascularMedicine                          1979 of 2651    74.65%
+    S-006-Endocrinology                                   1625 of 2183    74.44%
+    S-003-Gastroenterology                                1543 of 2101    73.44%
+    S-ClinicalLaboratoryTesting                           1964 of 2694    72.90%
+    S-044-ClinicalNutrition                                518 of 722     71.75%
+    S-022-OralMedicine 原名（DentalMedicine）                  617 of 861     71.66%
+    S-019-ObstetricsAndGynecology                         1793 of 2512    71.38%
+    S-009-Rheumatology                                    1421 of 2002    70.98%
+    S-063-GeneralPractice                                 1640 of 2346    69.91%
+    S-093-WomensHealthCare                                 705 of 1023    68.91%
+    S-049-SurgicalNursing                                 2784 of 4042    68.88%
+    S-011-GeneralSurgery                                  2709 of 3968    68.27%
+    S-012-OrthopedicSurgery                                968 of 1419    68.22%
+    S-047-Nursing                                         6538 of 9635    67.86%
+    M-342-SurgicalOncology                                 300 of 451     66.52%
+    S-014-Neurosurgery                                     854 of 1289    66.25%
+    S-024-Prosthodontics 原名 DentalRestoration              986 of 1525    64.66%
+    S-020-Pediatrics                                      2218 of 3464    64.03%
+    S-032-EmergencyMedicine                                482 of 755     63.84%
+    S-008-InfectiousDiseases                              1256 of 2133    58.88%
+    S-016-BurnSurgery                                      472 of 809     58.34%
+    S-065-GeriatricMedicine                                357 of 628     56.85%
+    S-004-Nephrology                                       557 of 999     55.76%
+    S-007-Hematology                                       447 of 805     55.53%
+    S-027-Otolaryngology(HeadAndNeckSurgery)               677 of 1233    54.91%
+    S-046-ClinicalPharmacy                                1260 of 2372    53.12%
+    S-005-Neurology                                       1695 of 3263    51.95%
+    S-048-InternalMedicineNursing                         2143 of 4157    51.55%
+    S-023-OralAndMaxillofacialSurgery                      417 of 817     51.04%
+    S-068-MentalIllness                                    555 of 1093    50.78%
+    M-323-BurnSurgery                                        1 of 2       50.00%
+    S-DiseasePreventionAndControl                          601 of 1219    49.30%
+    S-028-DermatologyAndVenereology                        358 of 741     48.31%
+    S-033-Anesthesiology                                   969 of 2126    45.58%
+    M-343-RadiationTherapyForTumors                         41 of 94      43.62%
+    M-330-ObstetricsAndGynecology                          929 of 2158    43.05%
+    S-034-Pathology                                        629 of 1623    38.76%
+    S-035-RadiologicalMedicine                            1034 of 3054    33.86%
+    S-026-Ophthalmology                                    357 of 1073    33.27%
+    M-308-Neurology                                        983 of 2958    33.23%
+    M-307-Nephrology                                       581 of 1823    31.87%
+    M-305-RespiratoryMedicine                              891 of 2838    31.40%
+    M-336-Otolaryngology                                   635 of 2026    31.34%
+    S-045-HospitalPharmacy                                1531 of 4984    30.72%
+    S-085-NutritionAndFoodHygiene                          235 of 808     29.08%
+    M-359-CriticalCareMedicine                             321 of 1116    28.76%
+    S-Hypersensitivity                                      43 of 150     28.67%
+    S-017-PlasticSurgery                                   371 of 1309    28.34%
+    M-310-Hematology                                       753 of 2712    27.77%
+    M-392-EmergencyMedicine                                640 of 2466    25.95%
+    M-304-CardiovascularMedicine                          1683 of 6822    24.67%
+    M-318-OrthopedicSurgery                                676 of 2848    23.74%
+    M-332-Pediatrics                                      1948 of 8666    22.48%
+    M-313-RheumatologyAndClinicalImmunology                265 of 1193    22.21%
+    M-317-GeneralSurgery                                  1415 of 6396    22.12%
+    M-322-PediatricSurgery                                 153 of 721     21.22%
+    M-340-Psychiatry                                       466 of 2209    21.10%
+    M-312-InfectiousDiseases                               606 of 2939    20.62%
+    M-341-MedicalOncology                                  291 of 1487    19.57%
+    M-301-GeneralPractice                                 1491 of 7688    19.39%
+    M-353-Dentistry                                       1110 of 5839    19.01%
+    M-314-OccupationalDiseases                             315 of 1690    18.64%
+    S-086-SchoolHealthAndPediatric&AdolescentHealth         60 of 329     18.24%
+    M-309-Endocrinology                                    334 of 1950    17.13%
+    S-EmergencyNursing                                     219 of 1289    16.99%
+    M-338-DermatologyAndVenereology                        339 of 2021    16.77%
+    M-348-RehabilitationMedicine                           257 of 1539    16.70%
+    S-025-Orthodontics                                     226 of 1433    15.77%
+    S-070-ClinicalLaboratoryScience                        468 of 3252    14.39%
+    M-382-Nutrition                                        454 of 3435    13.22%
+    M-306-Gastroenterology                                 155 of 1186    13.07%
+    M-358-PainMedicine                                     327 of 2706    12.08%
+    M-324-PlasticSurgery                                    69 of 607     11.37%
+    M-346-UltrasoundInMedicine                             357 of 3240    11.02%
+    M-347-Anesthesiology                                   314 of 3054    10.28%
+    M-344-RadiologicalMedicine                             392 of 3828    10.24%
+    M-321-Urology                                          155 of 1515    10.23%
+    M-334-Ophthalmology                                    419 of 4345     9.64%
+    M-368-Nursing                                          726 of 7636     9.51%
+    M-319-CardiothoracicSurgery                             94 of 1122     8.38%
+    M-351-Pathology                                        174 of 2080     8.37%
+    M-320-Neurosurgery                                     121 of 1582     7.65%
+    M-352-ClinicalLaboratoryTesting                        236 of 6800     3.47%
+    M-361-ChiefPharmacist                                  129 of 5443     2.37%
+    S-029-MedicalOncology                                    0 of 1170     0.00%
+    S-030-SurgicalOncology                                   0 of 773      0.00%
+    S-031-RadiationOncology                                  0 of 452      0.00%
+    S-036-NuclearMedicine                                    0 of 188      0.00%
+    S-037-MedicalUltrasound                                  0 of 674      0.00%
+    S-038-RehabilitationMedicine                             0 of 1046     0.00%
 
 === 4. option integrity ===
-  clean_ABCDE             179675   79.66%
-  clean_6_options          14947    6.63%
-  duplicate_letters         8316    3.69%
-  none                      7197    3.19%
-  clean_7_options           6819    3.02%
-  gapped_or_odd             5420    2.40%
-  clean_1_options           1691    0.75%
-  clean_4_options           1279    0.57%
-  clean_3_options            134    0.06%
-  clean_2_options             76    0.03%
+  clean_ABCDE                               179675   79.66%
+  clean_6_options                            14947    6.63%
+  duplicate_letters                           8316    3.69%
+  none                                        7197    3.19%
+  clean_7_options                             6819    3.02%
+  gapped_or_odd                               5420    2.40%
+  clean_1_options                             1691    0.75%
+  clean_4_options                             1279    0.57%
+  clean_3_options                              134    0.06%
+  clean_2_options                               76    0.03%
+  duplicate letters in records holding two or more questions:
+    with shared-stem marker                   5766    2.56%
+    without shared-stem marker                 460    0.20%
+    total                                     6226    2.76%
+  no options found by the strict pattern, by what the item contains:
+    other punctuation or no space             4264    1.89%
+    options stored in the answer field         371    0.16%
+    letters in parentheses                       6    0.00%
+    no option labels found                    2556    1.13%
 
 === 5. residual Chinese ===
-  items                       38    0.02%
+  items                                         38    0.02%

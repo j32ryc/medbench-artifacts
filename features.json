@@ -14,6 +14,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -58,6 +59,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -102,6 +104,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -146,6 +149,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -189,7 +193,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -233,7 +238,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -277,7 +283,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -322,6 +329,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -366,6 +374,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -410,6 +419,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -454,6 +464,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -498,6 +509,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -542,6 +554,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -586,6 +599,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -630,6 +644,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -674,6 +689,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -718,6 +734,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -762,6 +779,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -806,6 +824,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -850,6 +869,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -894,6 +914,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -937,7 +958,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -982,6 +1004,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1026,6 +1049,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1070,6 +1094,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1114,6 +1139,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1158,6 +1184,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1202,6 +1229,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1246,6 +1274,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1290,6 +1319,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1334,6 +1364,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1378,6 +1409,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1422,6 +1454,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1466,6 +1499,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1509,7 +1543,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1553,7 +1588,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1598,6 +1634,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1642,6 +1679,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1686,6 +1724,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1730,6 +1769,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1774,6 +1814,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1818,6 +1859,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1862,6 +1904,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1905,7 +1948,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1950,6 +1994,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -1994,6 +2039,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2038,6 +2084,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2082,6 +2129,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2126,6 +2174,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2170,6 +2219,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2214,6 +2264,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2258,6 +2309,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2302,6 +2354,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2346,6 +2399,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2390,6 +2444,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2433,7 +2488,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2478,6 +2534,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2522,6 +2579,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2566,6 +2624,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2609,7 +2668,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2654,6 +2714,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2698,6 +2759,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2742,6 +2804,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2786,6 +2849,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2829,7 +2893,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2874,6 +2939,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2918,6 +2984,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -2961,7 +3028,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3006,6 +3074,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3050,6 +3119,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3094,6 +3164,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3138,6 +3209,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3181,7 +3253,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3226,6 +3299,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3270,6 +3344,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3314,6 +3389,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3358,6 +3434,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3402,6 +3479,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3446,6 +3524,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3490,6 +3569,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3534,6 +3614,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3578,6 +3659,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3622,6 +3704,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3666,6 +3749,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3710,6 +3794,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3754,6 +3839,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3798,6 +3884,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3842,6 +3929,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3885,7 +3973,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3930,6 +4019,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -3974,6 +4064,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4018,6 +4109,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4062,6 +4154,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4106,6 +4199,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4150,6 +4244,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4194,6 +4289,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4238,6 +4334,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4282,6 +4379,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4326,6 +4424,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4369,7 +4468,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4414,6 +4514,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4458,6 +4559,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4502,6 +4604,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4546,6 +4649,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4590,6 +4694,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4634,6 +4739,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4678,6 +4784,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4722,6 +4829,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4766,6 +4874,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4810,6 +4919,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4853,7 +4963,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4898,6 +5009,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4942,6 +5054,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -4986,6 +5099,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5030,6 +5144,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5073,7 +5188,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5118,6 +5234,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5162,6 +5279,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5206,6 +5324,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5250,6 +5369,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5294,6 +5414,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5338,6 +5459,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5382,6 +5504,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5426,6 +5549,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5470,6 +5594,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5514,6 +5639,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5558,6 +5684,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5602,6 +5729,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5646,6 +5774,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5689,7 +5818,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5734,6 +5864,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5778,6 +5909,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5822,6 +5954,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5866,6 +5999,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5910,6 +6044,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5954,6 +6089,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -5998,6 +6134,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6042,6 +6179,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6086,6 +6224,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": true,
    "B": false,
@@ -6130,6 +6269,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6174,6 +6314,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6217,7 +6358,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6262,6 +6404,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6306,6 +6449,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6350,6 +6494,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6394,6 +6539,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6437,7 +6583,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6482,6 +6629,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6526,6 +6674,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6570,6 +6719,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6614,6 +6764,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6658,6 +6809,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6702,6 +6854,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6746,6 +6899,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6790,6 +6944,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6834,6 +6989,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6878,6 +7034,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6922,6 +7079,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -6966,6 +7124,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7010,6 +7169,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7054,6 +7214,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7097,7 +7258,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7142,6 +7304,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7186,6 +7349,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7230,6 +7394,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7274,6 +7439,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7317,7 +7483,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7362,6 +7529,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7406,6 +7574,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7450,6 +7619,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7493,7 +7663,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7538,6 +7709,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7582,6 +7754,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7626,6 +7799,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7670,6 +7844,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7714,6 +7889,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7758,6 +7934,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7802,6 +7979,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7846,6 +8024,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7890,6 +8069,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7934,6 +8114,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -7977,7 +8158,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8022,6 +8204,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8066,6 +8249,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8110,6 +8294,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8154,6 +8339,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8198,6 +8384,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8242,6 +8429,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8286,6 +8474,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8330,6 +8519,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8374,6 +8564,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8418,6 +8609,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8461,7 +8653,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8505,7 +8698,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8550,6 +8744,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8593,7 +8788,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8638,6 +8834,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8682,6 +8879,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8726,6 +8924,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8770,6 +8969,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8813,7 +9013,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8858,6 +9059,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8902,6 +9104,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8946,6 +9149,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -8990,6 +9194,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9033,7 +9238,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9077,7 +9283,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9122,6 +9329,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9166,6 +9374,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9209,7 +9418,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9254,6 +9464,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9298,6 +9509,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9341,7 +9553,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9385,7 +9598,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9430,6 +9644,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9474,6 +9689,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9518,6 +9734,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9562,6 +9779,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9606,6 +9824,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9650,6 +9869,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9694,6 +9914,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9738,6 +9959,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9781,7 +10003,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9826,6 +10049,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9870,6 +10094,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9914,6 +10139,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -9957,7 +10183,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10002,6 +10229,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10045,7 +10273,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10090,6 +10319,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10133,7 +10363,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10178,6 +10409,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10222,6 +10454,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10266,6 +10499,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10309,7 +10543,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10353,7 +10588,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10398,6 +10634,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10441,7 +10678,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10486,6 +10724,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10530,6 +10769,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10574,6 +10814,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10618,6 +10859,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10662,6 +10904,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10706,6 +10949,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10750,6 +10994,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10793,7 +11038,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10837,7 +11083,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10882,6 +11129,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10926,6 +11174,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -10969,7 +11218,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11013,7 +11263,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11058,6 +11309,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11101,7 +11353,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11146,6 +11399,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11189,7 +11443,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11234,6 +11489,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11278,6 +11534,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11322,6 +11579,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11366,6 +11624,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11410,6 +11669,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11454,6 +11714,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11498,6 +11759,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11542,6 +11804,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11586,6 +11849,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11630,6 +11894,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11674,6 +11939,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11718,6 +11984,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11761,7 +12028,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11805,7 +12073,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11850,6 +12119,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11894,6 +12164,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11938,6 +12209,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -11981,7 +12253,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12026,6 +12299,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12070,6 +12344,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12113,7 +12388,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12158,6 +12434,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12202,6 +12479,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12246,6 +12524,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12290,6 +12569,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12334,6 +12614,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12378,6 +12659,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12422,6 +12704,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12466,6 +12749,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12510,6 +12794,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12553,7 +12838,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12598,6 +12884,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12642,6 +12929,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12686,6 +12974,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12730,6 +13019,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12774,6 +13064,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12818,6 +13109,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12862,6 +13154,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12906,6 +13199,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12950,6 +13244,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -12994,6 +13289,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13038,6 +13334,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13081,7 +13378,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13126,6 +13424,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13170,6 +13469,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13214,6 +13514,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13258,6 +13559,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13302,6 +13604,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13346,6 +13649,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13390,6 +13694,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13434,6 +13739,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13478,6 +13784,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13522,6 +13829,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13565,7 +13873,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13609,7 +13918,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": "da816d976275",
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13653,7 +13963,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13698,6 +14009,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13741,7 +14053,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13786,6 +14099,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13830,6 +14144,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13874,6 +14189,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13918,6 +14234,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -13962,6 +14279,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14006,6 +14324,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14050,6 +14369,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14094,6 +14414,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14138,6 +14459,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14182,6 +14504,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14226,6 +14549,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14269,7 +14593,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14314,6 +14639,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14358,6 +14684,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14402,6 +14729,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14446,6 +14774,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14490,6 +14819,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14533,7 +14863,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14578,6 +14909,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14622,6 +14954,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14666,6 +14999,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14710,6 +15044,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14754,6 +15089,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14798,6 +15134,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14842,6 +15179,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14886,6 +15224,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14930,6 +15269,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -14974,6 +15314,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15018,6 +15359,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15062,6 +15404,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15106,6 +15449,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15150,6 +15494,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15194,6 +15539,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15238,6 +15584,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15282,6 +15629,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15325,7 +15673,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15370,6 +15719,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15414,6 +15764,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15458,6 +15809,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15502,6 +15854,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15546,6 +15899,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15590,6 +15944,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15633,7 +15988,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15677,7 +16033,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15722,6 +16079,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15766,6 +16124,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15810,6 +16169,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15854,6 +16214,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15898,6 +16259,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15941,7 +16303,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -15986,6 +16349,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16030,6 +16394,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16074,6 +16439,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16118,6 +16484,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16161,7 +16528,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16206,6 +16574,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16250,6 +16619,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16294,6 +16664,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16338,6 +16709,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16381,7 +16753,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16425,7 +16798,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16470,6 +16844,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16514,6 +16889,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16558,6 +16934,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16602,6 +16979,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16646,6 +17024,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16690,6 +17069,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16733,7 +17113,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16777,7 +17158,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16821,7 +17203,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16866,6 +17249,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16910,6 +17294,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16954,6 +17339,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -16998,6 +17384,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17042,6 +17429,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17086,6 +17474,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17130,6 +17519,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17174,6 +17564,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17217,7 +17608,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17262,6 +17654,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17306,6 +17699,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17350,6 +17744,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17394,6 +17789,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17438,6 +17834,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17481,7 +17878,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17526,6 +17924,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17569,7 +17968,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": "da816d976275",
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17614,6 +18014,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17658,6 +18059,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17702,6 +18104,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17746,6 +18149,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17790,6 +18194,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17834,6 +18239,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17878,6 +18284,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17922,6 +18329,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -17966,6 +18374,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18010,6 +18419,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18054,6 +18464,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18098,6 +18509,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18142,6 +18554,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18186,6 +18599,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18230,6 +18644,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18274,6 +18689,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18318,6 +18734,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18362,6 +18779,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18406,6 +18824,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18450,6 +18869,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18494,6 +18914,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18538,6 +18959,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18582,6 +19004,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18625,7 +19048,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18670,6 +19094,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18714,6 +19139,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18758,6 +19184,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18802,6 +19229,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18846,6 +19274,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18890,6 +19319,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18934,6 +19364,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -18978,6 +19409,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19022,6 +19454,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19066,6 +19499,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19110,6 +19544,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19154,6 +19589,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19198,6 +19634,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19242,6 +19679,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19286,6 +19724,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19330,6 +19769,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19374,6 +19814,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19418,6 +19859,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19462,6 +19904,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19506,6 +19949,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19550,6 +19994,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19594,6 +20039,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19638,6 +20084,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19682,6 +20129,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19726,6 +20174,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19770,6 +20219,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19814,6 +20264,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19858,6 +20309,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19902,6 +20354,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19946,6 +20399,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -19990,6 +20444,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20034,6 +20489,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20078,6 +20534,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20122,6 +20579,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20166,6 +20624,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20210,6 +20669,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20254,6 +20714,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20298,6 +20759,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20342,6 +20804,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20386,6 +20849,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20430,6 +20894,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20474,6 +20939,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20518,6 +20984,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20562,6 +21029,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20606,6 +21074,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20650,6 +21119,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20694,6 +21164,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20738,6 +21209,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20782,6 +21254,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20826,6 +21299,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20870,6 +21344,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20914,6 +21389,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -20958,6 +21434,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21002,6 +21479,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21046,6 +21524,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21090,6 +21569,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21134,6 +21614,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21178,6 +21659,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21222,6 +21704,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21266,6 +21749,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21310,6 +21794,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21354,6 +21839,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21398,6 +21884,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21442,6 +21929,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21486,6 +21974,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21530,6 +22019,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21573,7 +22063,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21618,6 +22109,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21662,6 +22154,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21706,6 +22199,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21750,6 +22244,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21794,6 +22289,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21838,6 +22334,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21882,6 +22379,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21926,6 +22424,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -21970,6 +22469,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22014,6 +22514,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22058,6 +22559,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22102,6 +22604,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22146,6 +22649,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22190,6 +22694,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22233,7 +22738,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22278,6 +22784,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22322,6 +22829,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22365,7 +22873,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22410,6 +22919,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22453,7 +22963,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22497,7 +23008,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22541,7 +23053,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22586,6 +23099,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22630,6 +23144,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22674,6 +23189,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22717,7 +23233,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22762,6 +23279,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22806,6 +23324,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22850,6 +23369,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22893,7 +23413,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22938,6 +23459,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -22982,6 +23504,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23026,6 +23549,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23070,6 +23594,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23114,6 +23639,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23158,6 +23684,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23202,6 +23729,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23246,6 +23774,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23290,6 +23819,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23334,6 +23864,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23378,6 +23909,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23422,6 +23954,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23466,6 +23999,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23509,7 +24043,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23553,7 +24088,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23598,6 +24134,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23642,6 +24179,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23686,6 +24224,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23730,6 +24269,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23774,6 +24314,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23818,6 +24359,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23862,6 +24404,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23906,6 +24449,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23950,6 +24494,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -23994,6 +24539,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24038,6 +24584,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24082,6 +24629,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24125,7 +24673,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24169,7 +24718,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24214,6 +24764,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24258,6 +24809,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24302,6 +24854,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24346,6 +24899,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24389,7 +24943,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24433,7 +24988,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24477,7 +25033,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24522,6 +25079,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24566,6 +25124,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24610,6 +25169,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24654,6 +25214,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24698,6 +25259,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24742,6 +25304,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24785,7 +25348,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24830,6 +25394,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24874,6 +25439,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24918,6 +25484,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -24961,7 +25528,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25006,6 +25574,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25050,6 +25619,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25094,6 +25664,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25138,6 +25709,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25182,6 +25754,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25226,6 +25799,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25269,7 +25843,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25313,7 +25888,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25358,6 +25934,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25402,6 +25979,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25445,7 +26023,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25490,6 +26069,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25534,6 +26114,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25578,6 +26159,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25622,6 +26204,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25666,6 +26249,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25710,6 +26294,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25754,6 +26339,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25798,6 +26384,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25841,7 +26428,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25886,6 +26474,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25930,6 +26519,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -25974,6 +26564,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26018,6 +26609,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26062,6 +26654,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26106,6 +26699,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26150,6 +26744,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26194,6 +26789,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26238,6 +26834,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26282,6 +26879,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26325,7 +26923,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26370,6 +26969,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26414,6 +27014,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26458,6 +27059,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26502,6 +27104,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26546,6 +27149,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26590,6 +27194,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26633,7 +27238,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26677,7 +27283,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26722,6 +27329,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26765,7 +27373,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26810,6 +27419,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26854,6 +27464,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26898,6 +27509,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26942,6 +27554,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -26986,6 +27599,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27030,6 +27644,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27074,6 +27689,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27118,6 +27734,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27162,6 +27779,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27206,6 +27824,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27250,6 +27869,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27294,6 +27914,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27338,6 +27959,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27381,7 +28003,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27426,6 +28049,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27470,6 +28094,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27514,6 +28139,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27558,6 +28184,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27602,6 +28229,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27646,6 +28274,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27690,6 +28319,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27734,6 +28364,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27778,6 +28409,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27822,6 +28454,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27866,6 +28499,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27910,6 +28544,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27954,6 +28589,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -27998,6 +28634,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28042,6 +28679,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28086,6 +28724,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28129,7 +28768,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28174,6 +28814,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28218,6 +28859,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28261,7 +28903,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28305,7 +28948,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28350,6 +28994,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28393,7 +29038,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28437,7 +29083,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28482,6 +29129,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28526,6 +29174,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28570,6 +29219,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28614,6 +29264,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28658,6 +29309,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28701,7 +29353,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28745,7 +29398,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28790,6 +29444,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28834,6 +29489,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28878,6 +29534,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28921,7 +29578,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -28966,6 +29624,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29010,6 +29669,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29054,6 +29714,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29098,6 +29759,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29141,7 +29803,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29186,6 +29849,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29230,6 +29894,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29274,6 +29939,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29318,6 +29984,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29361,7 +30028,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29406,6 +30074,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29450,6 +30119,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29494,6 +30164,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29538,6 +30209,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29582,6 +30254,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29625,7 +30298,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29670,6 +30344,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29714,6 +30389,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29758,6 +30434,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29802,6 +30479,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29845,7 +30523,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29889,7 +30568,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -29934,6 +30614,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": true,
    "B": false,
@@ -29978,6 +30659,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30022,6 +30704,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30066,6 +30749,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30110,6 +30794,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30154,6 +30839,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30198,6 +30884,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30242,6 +30929,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30286,6 +30974,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30330,6 +31019,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30374,6 +31064,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30418,6 +31109,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30462,6 +31154,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30505,7 +31198,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30550,6 +31244,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30593,7 +31288,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 3,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30637,7 +31333,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30681,7 +31378,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30726,6 +31424,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30770,6 +31469,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30814,6 +31514,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30858,6 +31559,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30902,6 +31604,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30946,6 +31649,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -30990,6 +31694,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31034,6 +31739,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31078,6 +31784,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31122,6 +31829,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31166,6 +31874,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31210,6 +31919,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31254,6 +31964,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31297,7 +32008,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31342,6 +32054,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31386,6 +32099,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31430,6 +32144,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31474,6 +32189,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31518,6 +32234,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31562,6 +32279,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31606,6 +32324,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31650,6 +32369,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31693,7 +32413,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 2,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31738,6 +32459,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31782,6 +32504,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31826,6 +32549,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31870,6 +32594,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31914,6 +32639,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -31958,6 +32684,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32002,6 +32729,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32046,6 +32774,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32090,6 +32819,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32134,6 +32864,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32178,6 +32909,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32222,6 +32954,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32266,6 +32999,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32310,6 +33044,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32354,6 +33089,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32398,6 +33134,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32442,6 +33179,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32486,6 +33224,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32530,6 +33269,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32574,6 +33314,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32617,7 +33358,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32662,6 +33404,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32706,6 +33449,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32750,6 +33494,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32794,6 +33539,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32838,6 +33584,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32882,6 +33629,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32926,6 +33674,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -32970,6 +33719,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33014,6 +33764,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33058,6 +33809,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33102,6 +33854,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33146,6 +33899,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33190,6 +33944,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33234,6 +33989,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33278,6 +34034,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33322,6 +34079,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33366,6 +34124,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33410,6 +34169,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33454,6 +34214,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33498,6 +34259,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33542,6 +34304,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33586,6 +34349,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33630,6 +34394,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33674,6 +34439,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33718,6 +34484,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33761,7 +34528,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 4,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33806,6 +34574,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33850,6 +34619,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33894,6 +34664,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33938,6 +34709,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -33982,6 +34754,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34026,6 +34799,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34069,7 +34843,8 @@
   },
   "longest_is_answer": false,
   "answer_len_rank": 5,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34114,6 +34889,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34158,6 +34934,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34202,6 +34979,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34245,7 +35023,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34290,6 +35069,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34334,6 +35114,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34378,6 +35159,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34422,6 +35204,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34466,6 +35249,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34510,6 +35294,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34554,6 +35339,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34598,6 +35384,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34642,6 +35429,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34686,6 +35474,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34730,6 +35519,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34773,7 +35563,8 @@
   },
   "longest_is_answer": true,
   "answer_len_rank": 1,
-  "shared_stem": false,
+  "shared_stem": true,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34818,6 +35609,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34862,6 +35654,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34906,6 +35699,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 4,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34950,6 +35744,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 3,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -34994,6 +35789,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -35038,6 +35834,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -35082,6 +35879,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 5,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -35126,6 +35924,7 @@
   "longest_is_answer": true,
   "answer_len_rank": 1,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,
@@ -35170,6 +35969,7 @@
   "longest_is_answer": false,
   "answer_len_rank": 2,
   "shared_stem": false,
+  "case_group": null,
   "feat_catch_all": {
    "A": false,
    "B": false,

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Exact binomial tests for every condition, plus per-specialty breakdown.
+"""Exact binomial tests for every condition, the options-only condition for
+each model, and a per-specialty breakdown.
 
 Reports exact tail probabilities rather than a normal approximation: with
 n=800 and p=0.2 the approximation is adequate, but the exact figure costs
@@ -13,7 +14,7 @@ import io
 import json
 import math
 import os
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 CHANCE = 0.2
 
@@ -47,19 +48,28 @@ def summarize(name: str, k: int, n: int, out):
         tail = "below"
     sigma = math.sqrt(n * CHANCE * (1 - CHANCE))
     z = (k - n * CHANCE) / sigma
-    out.write(f"{name:<12}{k:>6}/{n:<5}{acc:>9.4f}  "
+    out.write(f"{name:<18}{k:>6}/{n:<5}{acc:>9.4f}  "
               f"[{lo:.4f}, {hi:.4f}]  z={z:>+6.2f}  "
               f"p({tail})={p:.3e}\n")
+
+
+def preferred(rows):
+    """The most frequently chosen letter, and the score from always choosing it."""
+    picks = Counter(r["pick"] for r in rows if r["pick"])
+    fav = picks.most_common(1)[0][0]
+    return fav, sum(1 for r in rows if r["gold"] == fav) / len(rows)
 
 
 def main():
     out = io.open("stats.txt", "w", encoding="utf-8")
     out.write(f"chance baseline: {CHANCE}\n")
-    out.write(f"{'condition':<12}{'correct':>12}{'acc':>9}  {'95% Wilson':<20}"
+    out.write(f"{'condition':<18}{'correct':>12}{'acc':>9}  {'95% Wilson':<20}"
               f"{'z':>9}  p\n")
-    out.write("-" * 82 + "\n")
+    out.write("-" * 88 + "\n")
 
     per_bank = defaultdict(lambda: defaultdict(lambda: [0, 0]))
+    unparsed = Counter()
+    options_rows = []
 
     if os.path.exists("results.json"):
         rows = json.load(io.open("results.json", encoding="utf-8"))
@@ -71,9 +81,11 @@ def main():
             b = per_bank[r["condition"]][r["bank"]]
             b[0] += r["correct"]
             b[1] += 1
+            unparsed[r["condition"]] += r["pick"] is None
         for cond in ("full", "options", "question"):
             if cond in by:
                 summarize(cond, by[cond][0], by[cond][1], out)
+        options_rows = [r for r in rows if r["condition"] == "options"]
 
     if os.path.exists("controls.json"):
         rows = json.load(io.open("controls.json", encoding="utf-8"))
@@ -85,11 +97,31 @@ def main():
             b = per_bank[r["control"]][r["bank"]]
             b[0] += (r["pick"] == r["gold"])
             b[1] += 1
+            unparsed[r["control"]] += r["pick"] is None
         for cond in ("shuffle", "swap"):
             if cond in by:
                 summarize(cond, by[cond][0], by[cond][1], out)
     else:
         out.write("(controls.json not present yet)\n")
+
+    out.write("unparsed responses (scored as incorrect): "
+              + ", ".join(f"{k} {v}" for k, v in unparsed.items()) + "\n")
+
+    models = [("deepseek-v4-flash", options_rows)] if options_rows else []
+    if os.path.exists("multi_options.json"):
+        by_model = defaultdict(list)
+        for r in json.load(io.open("multi_options.json", encoding="utf-8")):
+            if r["condition"] == "options":
+                by_model[r["model"]].append(r)
+        models += list(by_model.items())
+    if models:
+        out.write("\n=== options condition by model ===\n")
+        for model, rows in models:
+            summarize(model, sum(1 for r in rows if r["correct"]), len(rows), out)
+            fav, score = preferred(rows)
+            n_unparsed = sum(1 for r in rows if r["pick"] is None)
+            out.write(f"{'':<18}preferred letter {fav}, always choosing it scores {score:.3f}; "
+                      f"unparsed {n_unparsed}\n")
 
     out.write("\n=== per-specialty ===\n")
     banks = sorted({b for c in per_bank.values() for b in c})

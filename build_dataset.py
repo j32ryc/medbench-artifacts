@@ -42,7 +42,12 @@ BANKS = [
 ANS = re.compile(r"(?:reference answer|参考答案)\s*[:：]?\s*([A-Ga-g]+)", re.I)
 # Options are "A. text" up to the next option letter or end of string.
 OPT_SPLIT = re.compile(r"(?:^|\s)([A-G])[\.\uff0e、]\s*")
-SHARED = re.compile(r"\[Shared Stem\]|\[共享题干\]|共用题干")
+# The insertion step marks a copied case vignette 【共享题干】. Machine translation
+# renders that marker in several spellings, all of which are matched here.
+SHARED = re.compile(
+    r"[\[【]\s*(?:shared\s+(?:questions?(?:\s+stem)?|stem|topic|title)|共享题干|共用题干)\s*[\]】]"
+    r"|共用题干",
+    re.I)
 CJK = re.compile(r"[\u4e00-\u9fff]")
 
 
