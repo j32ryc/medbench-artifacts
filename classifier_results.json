@@ -1,0 +1,4802 @@
+[
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-332-Pediatrics",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-368-Nursing",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-301-GeneralPractice",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-304-CardiovascularMedicine",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-352-ClinicalLaboratoryTesting",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-317-GeneralSurgery",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-353-Dentistry",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "B",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "B",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "E",
+  "surface_pick": "A",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "A",
+  "text_pick": "B"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "E"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "C",
+  "text_pick": "A"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "A",
+  "surface_pick": "B",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "D",
+  "text_pick": "D"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "B",
+  "surface_pick": "E",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "C",
+  "surface_pick": "C",
+  "text_pick": "C"
+ },
+ {
+  "bank": "M-334-Ophthalmology",
+  "gold": "D",
+  "surface_pick": "C",
+  "text_pick": "B"
+ }
+]

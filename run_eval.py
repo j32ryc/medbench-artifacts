@@ -16,9 +16,9 @@ textbook-sounding strings, independent of any medical content. Running both
 separates "the options leak" from "the question leaks".
 
 Answers are extracted from a strict single-letter reply. A response that does
-not yield a letter is recorded as `unparsed` rather than silently counted wrong,
-because scoring a refusal as an error would understate the model and hide
-prompt-format problems.
+not yield a letter is stored with pick = null and scored as incorrect; the number
+of such responses is printed for each condition so that prompt-format problems
+stay visible.
 """
 from __future__ import annotations
 

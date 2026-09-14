@@ -123,6 +123,35 @@ def main():
             out.write(f"{'':<18}preferred letter {fav}, always choosing it scores {score:.3f}; "
                       f"unparsed {n_unparsed}\n")
 
+    extended = sorted(f for f in os.listdir(".")
+                      if f.startswith("extended_") and f.endswith(".json") and not f.endswith("_summary.json"))
+    if extended:
+        by_run = defaultdict(list)
+        for f in extended:
+            for r in json.load(io.open(f, encoding="utf-8")):
+                by_run[(r["model"], r["condition"])].append(r)
+        out.write("\n=== extended runs ===\n")
+        acc = {}
+        for model in dict.fromkeys(m for m, _ in by_run):
+            out.write(f"{model}\n")
+            for cond in ("full", "options", "shuffle"):
+                rows = by_run.get((model, cond))
+                if not rows:
+                    continue
+                k = sum(1 for r in rows if r["correct"])
+                summarize(f"  {cond}", k, len(rows), out)
+                fav, score = preferred(rows)
+                n_unparsed = sum(1 for r in rows if r["pick"] is None)
+                out.write(f"{'':<18}preferred letter {fav}, always choosing it scores {score:.3f}; "
+                          f"unparsed {n_unparsed}\n")
+                acc[cond] = k / len(rows)
+            if "full" in acc and acc["full"] > CHANCE:
+                for cond in ("options", "shuffle"):
+                    if cond in acc:
+                        rho = (acc[cond] - CHANCE) / (acc["full"] - CHANCE)
+                        out.write(f"{'':<18}rho ({cond} vs full) = {rho:.3f}\n")
+            acc = {}
+
     out.write("\n=== per-specialty ===\n")
     banks = sorted({b for c in per_bank.values() for b in c})
     conds = [c for c in ("full", "options", "question", "shuffle", "swap")

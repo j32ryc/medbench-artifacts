@@ -20,6 +20,62 @@ gemma2:9b             62/200     0.3100  [0.2500, 0.3772]  z= +3.89  p(above)=1.
 qwen2.5:7b            53/200     0.2650  [0.2087, 0.3302]  z= +2.30  p(above)=1.575e-02
                   preferred letter A, always choosing it scores 0.195; unparsed 0
 
+=== extended runs ===
+glm-5.2
+  full               670/800     0.8375  [0.8103, 0.8614]  z=+45.08  p(above)=0.000e+00
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  options            277/800     0.3463  [0.3141, 0.3799]  z=+10.34  p(above)=3.767e-22
+                  preferred letter B, always choosing it scores 0.216; unparsed 0
+  shuffle            249/800     0.3113  [0.2801, 0.3442]  z= +7.87  p(above)=6.770e-14
+                  preferred letter B, always choosing it scores 0.172; unparsed 0
+                  rho (options vs full) = 0.229
+                  rho (shuffle vs full) = 0.175
+gemma2:9b
+  full               476/800     0.5950  [0.5606, 0.6285]  z=+27.93  p(above)=0.000e+00
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  options            217/800     0.2712  [0.2416, 0.3031]  z= +5.04  p(above)=7.433e-07
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  shuffle            209/800     0.2612  [0.2320, 0.2928]  z= +4.33  p(above)=1.641e-05
+                  preferred letter E, always choosing it scores 0.234; unparsed 0
+                  rho (options vs full) = 0.180
+                  rho (shuffle vs full) = 0.155
+qwen2.5:7b
+  full               567/800     0.7087  [0.6763, 0.7392]  z=+35.97  p(above)=0.000e+00
+                  preferred letter A, always choosing it scores 0.194; unparsed 0
+  options            216/800     0.2700  [0.2404, 0.3018]  z= +4.95  p(above)=1.118e-06
+                  preferred letter A, always choosing it scores 0.194; unparsed 0
+  shuffle            199/800     0.2487  [0.2200, 0.2799]  z= +3.45  p(above)=4.512e-04
+                  preferred letter A, always choosing it scores 0.220; unparsed 0
+                  rho (options vs full) = 0.138
+                  rho (shuffle vs full) = 0.096
+llama3.1:8b
+  full               451/800     0.5637  [0.5292, 0.5977]  z=+25.72  p(above)=3.034e-113
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  options            217/800     0.2712  [0.2416, 0.3031]  z= +5.04  p(above)=7.433e-07
+                  preferred letter B, always choosing it scores 0.216; unparsed 0
+  shuffle            198/800     0.2475  [0.2188, 0.2786]  z= +3.36  p(above)=6.073e-04
+                  preferred letter C, always choosing it scores 0.181; unparsed 0
+                  rho (options vs full) = 0.196
+                  rho (shuffle vs full) = 0.131
+mistral:7b
+  full               350/800     0.4375  [0.4035, 0.4721]  z=+16.79  p(above)=2.982e-52
+                  preferred letter A, always choosing it scores 0.194; unparsed 0
+  options            181/800     0.2263  [0.1986, 0.2565]  z= +1.86  p(above)=3.648e-02
+                  preferred letter E, always choosing it scores 0.176; unparsed 5
+  shuffle            209/800     0.2612  [0.2320, 0.2928]  z= +4.33  p(above)=1.641e-05
+                  preferred letter E, always choosing it scores 0.234; unparsed 1
+                  rho (options vs full) = 0.111
+                  rho (shuffle vs full) = 0.258
+qwen3.8-max-0902
+  full               718/800     0.8975  [0.8745, 0.9167]  z=+49.32  p(above)=0.000e+00
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  options            317/800     0.3962  [0.3629, 0.4306]  z=+13.88  p(above)=3.759e-37
+                  preferred letter C, always choosing it scores 0.220; unparsed 0
+  shuffle            306/800     0.3825  [0.3495, 0.4167]  z=+12.90  p(above)=1.166e-32
+                  preferred letter D, always choosing it scores 0.193; unparsed 0
+                  rho (options vs full) = 0.281
+                  rho (shuffle vs full) = 0.262
+
 === per-specialty ===
 bank                                     full    options   question    shuffle       swap
 -----------------------------------------------------------------------------------------
