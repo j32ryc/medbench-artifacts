@@ -8,15 +8,21 @@ is a property of the corpus.
 
 Local models (names with a colon, such as qwen2.5:7b) are reached through
 Ollama, which needs no key and imposes no quota. Hosted models go through the
-provider abstraction in the gateway project, which picks DeepSeek, Gemini or
-Qwen (DashScope) from the model name.
+provider abstraction in the gateway project, which picks the provider (DeepSeek,
+Gemini, Qwen or Kimi on DashScope, GLM) from the model name.
 
 Conditions, with the same prompts as run_eval.py and run_controls.py:
   full      question and options
   options   options only
   shuffle   options only, permuted. The permutations are drawn exactly as
-            run_controls.py draws them over the full dataset, so every item is
-            shown in the order deepseek-v4-flash saw it.
+            run_controls.py draws them over the full 800-item dataset, so every
+            item is shown in the order deepseek-v4-flash saw it.
+
+--lang zh runs the Chinese originals (dataset_zh.json, built by
+build_dataset_zh.py) with the same instructions in Chinese. Rows of that file
+carry sample_index, the item's position in dataset.json, which selects the same
+permutation under shuffle and is written to every result row so that English
+and Chinese answers can be paired.
 
 A failed call is retried and never scored. Items that still fail get a second
 pass at the end of the condition; a condition with any item still missing is
@@ -27,6 +33,7 @@ complete.
 
   python run_multi.py --models mistral:7b llama3.1:8b gemma2:9b qwen2.5:7b --conditions options --limit 25 --out multi_options.json
   python run_multi.py --models qwen3.8-max-0902 --conditions full options shuffle --out extended_results.json --append
+  python run_multi.py --models qwen2.5:7b --lang zh --dataset dataset_zh.json --conditions full options shuffle --out chinese_local.json --append
 """
 from __future__ import annotations
 
@@ -39,11 +46,10 @@ import re
 import sys
 import time
 from collections import Counter, defaultdict
+from fractions import Fraction
 
 import requests
 from dotenv import load_dotenv
-
-from run_controls import make_shuffle
 
 GATEWAY_DIR = os.path.join("D:", os.sep, "Claude Pro", "ai-agent-security-gateway")
 load_dotenv(os.path.join(GATEWAY_DIR, ".env"))
@@ -57,9 +63,20 @@ SHUFFLE_SEED = 20260910          # run_controls.py's default seed
 RETRIES = 3
 MAX_CONSECUTIVE_FAILURES = 5
 
-SYSTEM = ("You are taking a multiple-choice medical exam. Reply with exactly one "
-          "letter: A, B, C, D, or E. Output nothing else. If you are unsure, "
-          "still choose the single most likely option.")
+SYSTEM = {
+    "en": ("You are taking a multiple-choice medical exam. Reply with exactly one "
+           "letter: A, B, C, D, or E. Output nothing else. If you are unsure, "
+           "still choose the single most likely option."),
+    "zh": ("你正在参加医学选择题考试。只回复一个字母：A、B、C、D 或 E，不要输出其他任何内容。"
+           "如果不确定，也要选出最可能的一个选项。"),
+}
+PROMPTS = {
+    "en": {"full": "{question}\n{options}\n\nAnswer with one letter.",
+           "options": ("{options}\n\nOne of these options is the correct answer to a medical exam "
+                       "question you have not been shown. Answer with one letter.")},
+    "zh": {"full": "{question}\n{options}\n\n请只回答一个字母。",
+           "options": "{options}\n\n以上选项中有一个是某道医学考试题的正确答案，但题目没有给你看。请只回答一个字母。"},
+}
 
 
 def is_local(model: str) -> bool:
@@ -71,20 +88,36 @@ def options_block(options: dict) -> str:
     return "\n".join(f"{k}. {options[k]}" for k in LETTERS)
 
 
-def build_prompt(item: dict, condition: str, options: dict | None = None) -> str:
+def build_prompt(item: dict, condition: str, options: dict | None = None, lang: str = "en") -> str:
     if condition == "full":
-        return f"{item['question']}\n{options_block(item['options'])}\n\nAnswer with one letter."
+        return PROMPTS[lang]["full"].format(question=item["question"], options=options_block(item["options"]))
     if condition in ("options", "shuffle"):
-        return (f"{options_block(options or item['options'])}\n\nOne of these options is the "
-                f"correct answer to a medical exam question you have not been shown. "
-                f"Answer with one letter.")
+        return PROMPTS[lang]["options"].format(options=options_block(options or item["options"]))
     raise ValueError(condition)
 
 
-def shuffled_options(data: list) -> list:
-    """(options, gold) per item, drawn in the same sequence as run_controls.py."""
+def shuffle_orders(n: int) -> list:
+    """The option order for each of the first n dataset positions.
+
+    run_controls.py shuffles each item's five option texts with one Random
+    object in dataset order. random.shuffle draws the same numbers for any
+    five-element list, so shuffling the positions 0-4 instead gives the same
+    permutation without needing the English text.
+    """
     rng = random.Random(SHUFFLE_SEED)
-    return [make_shuffle(item, rng) for item in data]
+    orders = []
+    for _ in range(n):
+        order = list(range(5))
+        rng.shuffle(order)
+        orders.append(order)
+    return orders
+
+
+def apply_order(item: dict, order: list):
+    """(options, gold) with the option at position order[i] moved to letter i."""
+    options = {LETTERS[i]: item["options"][LETTERS[order[i]]] for i in range(5)}
+    gold = LETTERS[order.index(LETTERS.index(item["answer"]))]
+    return options, gold
 
 
 def extract(reply: str):
@@ -103,10 +136,10 @@ OLLAMA_SESSION = requests.Session()
 OLLAMA_SESSION.trust_env = False
 
 
-def ask_local(model: str, prompt: str) -> str:
+def ask_local(model: str, prompt: str, system: str) -> str:
     r = OLLAMA_SESSION.post(f"{OLLAMA}/api/chat", timeout=180, json={
         "model": model,
-        "messages": [{"role": "system", "content": SYSTEM},
+        "messages": [{"role": "system", "content": system},
                      {"role": "user", "content": prompt}],
         "stream": False,
         # Keep the model in GPU memory between items; otherwise a server that
@@ -120,7 +153,7 @@ def ask_local(model: str, prompt: str) -> str:
     return r.json().get("message", {}).get("content", "")
 
 
-def make_hosted(model: str):
+def make_hosted(model: str, system: str):
     sys.path.insert(0, GATEWAY_DIR)
     from gateway import providers
     client = providers.make_client(model)
@@ -129,7 +162,7 @@ def make_hosted(model: str):
     def ask(prompt: str) -> str:
         r = client.chat.completions.create(
             model=model,
-            messages=[{"role": "system", "content": SYSTEM},
+            messages=[{"role": "system", "content": system},
                       {"role": "user", "content": prompt}],
             max_tokens=2000, temperature=0, **extra)
         return r.choices[0].message.content or ""
@@ -147,7 +180,14 @@ def call_with_retry(ask, prompt: str) -> str:
 
 
 def binom_sf(k: int, n: int, p: float) -> float:
-    return sum(math.comb(n, i) * p**i * (1-p)**(n-i) for i in range(k, n+1))
+    """P(X >= k) for X ~ Binomial(n, p), in exact integer arithmetic.
+
+    A float product of math.comb(n, i) and p**i overflows once n reaches a few
+    thousand items (as on CMExam), so p is written as a fraction first.
+    """
+    q = Fraction(p).limit_denominator(10**6)
+    a, b = q.numerator, q.denominator
+    return sum(math.comb(n, i) * a**i * (b - a)**(n - i) for i in range(k, n + 1)) / b**n
 
 
 def wilson(k: int, n: int, z: float = 1.96):
@@ -168,6 +208,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--models", nargs="+", required=True)
     ap.add_argument("--dataset", default="dataset.json")
+    ap.add_argument("--lang", choices=["en", "zh"], default="en",
+                    help="language of the instructions; use zh with dataset_zh.json")
     ap.add_argument("--conditions", nargs="+", default=["full", "options"],
                     choices=["full", "options", "shuffle"])
     ap.add_argument("--limit", type=int, default=None,
@@ -179,9 +221,12 @@ def main():
                     help="print running accuracy every N items")
     args = ap.parse_args()
     summary_path = os.path.splitext(args.out)[0] + "_summary.json"
+    system = SYSTEM[args.lang]
 
     data = json.load(open(args.dataset, encoding="utf-8"))
-    shuffled = shuffled_options(data)
+    positions = [d.get("sample_index", i) for i, d in enumerate(data)]
+    orders = shuffle_orders(max(positions) + 1)
+    shuffled = [apply_order(d, orders[p]) for d, p in zip(data, positions)]
     index = list(range(len(data)))
     if args.limit:
         by = defaultdict(list)
@@ -200,7 +245,7 @@ def main():
 
     aborted = None
     for model in args.models:
-        ask = (lambda p, m=model: ask_local(m, p)) if is_local(model) else make_hosted(model)
+        ask = (lambda p, m=model: ask_local(m, p, system)) if is_local(model) else make_hosted(model, system)
         for cond in args.conditions:
             t0 = time.time()
             rows, failed = {}, []
@@ -212,7 +257,7 @@ def main():
                     item = data[i]
                     options, gold = shuffled[i] if cond == "shuffle" else (item["options"], item["answer"])
                     try:
-                        reply = call_with_retry(ask, build_prompt(item, cond, options))
+                        reply = call_with_retry(ask, build_prompt(item, cond, options, args.lang))
                         consecutive = 0
                     except Exception as e:
                         failed.append(i)
@@ -225,6 +270,9 @@ def main():
                     pick = extract(reply)
                     rows[i] = {"model": model, "condition": cond, "bank": item["bank"],
                                "gold": gold, "pick": pick, "correct": pick == gold}
+                    for key in ("sample_index", "cmexam_row"):
+                        if key in item:
+                            rows[i][key] = item[key]
                     if pass_no == 1 and n_done % args.progress_every == 0:
                         acc = sum(r["correct"] for r in rows.values()) / len(rows)
                         print(f"  [{model}/{cond}] {n_done}/{len(index)} acc={acc:.3f} "

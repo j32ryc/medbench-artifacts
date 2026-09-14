@@ -48,10 +48,44 @@ to it, and the construction pipeline copies the description into each of them.
 121 of the 800 sampled items are such questions; on the other 679,
 `deepseek-v4-flash` still scores 0.277 with options only (p = 9.3e-7).
 
+### Not a translation effect
+
+The 800 items are Google translations. The Chinese originals of 727 of them were
+recovered and checked, and the local models were run on them in Chinese. On the
+same 727 items:
+
+| Model | Options only, English | Options only, Chinese | Shuffled, English | Shuffled, Chinese |
+|---|---|---|---|---|
+| qwen2.5:7b | 0.274 | 0.303 | 0.250 | 0.281 |
+| llama3.1:8b | 0.265 | 0.286 | 0.242 | 0.231 |
+| gemma2:9b | 0.279 | 0.279 | 0.263 | 0.265 |
+
+None of these English-Chinese differences is significant (exact McNemar test,
+p >= 0.099). `mistral:7b` often did not answer the Chinese prompts with a letter,
+so it is left out of this comparison; its answers are in `chinese_local.json`.
+
+### A public benchmark: CMExam
+
+The same test on the 6,405 single-answer, five-option questions of the
+[CMExam](https://github.com/williamliujl/CMExam) test split, which comes from the
+Chinese National Medical Licensing Examination (Liu et al., NeurIPS 2023 Datasets
+and Benchmarks Track), in Chinese:
+
+| Model | Question and options | Options only | Options only, shuffled |
+|---|---|---|---|
+| qwen2.5:7b | 0.812 | 0.302 | 0.296 |
+| llama3.1:8b | 0.571 | 0.273 | 0.252 |
+| gemma2:9b | 0.517 | 0.262 | 0.253 |
+
+All six partial-input results are above chance (p < 1e-23). CMExam has been public
+since 2023, so part of this may come from models having seen the questions during
+training.
+
 ## What is included
 
-The questions come from commercially published exam-preparation material and are
-not included in this repository.
+No question text is included: not the commercial preparation material, not its
+Chinese originals, and not the CMExam questions (CMExam is released for academic
+research only; get it from its own repository).
 
 - `features.json`: per-item measurements (option lengths, word-feature flags,
   keyed letter, whether a shared case description was copied in, and a group id
@@ -61,13 +95,18 @@ not included in this repository.
 - `extended_results.json`, `extended_glm.json`, `extended_local.json`: the other
   six models' answers, with `_summary.json` files beside them.
 - `classifier_results.json`: the two classifiers' choice for each item.
+- `chinese_local.json`: the local models' answers on the Chinese originals. Each
+  row carries `sample_index`, the item's position in the 800-item sample.
+- `cmexam_local.json`: the local models' answers on CMExam. Each row carries
+  `cmexam_row`, the question's position among the data rows of CMExam's
+  `test_with_annotations.csv`.
 - `pipeline_audit.txt`: counts from the structural audit of the whole corpus.
 - `multi_options.json`: an earlier 200-item pilot of the local models, superseded
   by `extended_local.json`.
 - The extraction, evaluation and analysis code.
 
-None of the result files contain question text; each row holds only the bank, the
-keyed letter, the model's letter and whether it was right.
+Each row of a result file holds only identifiers, the keyed letter, the model's
+letter and whether it was right.
 
 ## Reproducing the numbers
 
@@ -75,16 +114,22 @@ These run without an API key, using only the files in this repository:
 
 ```
 python reproduce_surface.py     # surface-feature table, from features.json
-python stats.py                 # accuracy, intervals and p-values for every model and condition
+python stats.py                 # accuracy, intervals and p-values on the 800 items
 python shared_stem_split.py     # results with and without shared-case items
 python classifier_agreement.py  # do the models succeed where the classifier does?
+python compare_languages.py     # English translation versus Chinese original
+python cmexam_stats.py          # CMExam results, overall and by discipline
 ```
 
-The following need the source items, which are not included. The model runs also
-need Ollama or API credentials, and the classifier needs scikit-learn.
+The following need the source items, or for CMExam its public test file. The
+model runs also need Ollama or API credentials, and the classifier needs
+scikit-learn.
 
 ```
 python build_dataset.py
+python build_dataset_zh.py
+python check_zh_alignment.py
+python build_cmexam.py --csv test_with_annotations.csv --out cmexam_test_single5.json
 python export_features.py
 python analyze_artifacts.py
 python pipeline_audit.py
@@ -94,6 +139,8 @@ python run_controls.py --controls shuffle swap
 python run_multi.py    --models gemma2:9b qwen2.5:7b llama3.1:8b mistral:7b --conditions options shuffle full --out extended_local.json --append
 python run_multi.py    --models qwen3.8-max-0902 --conditions full options shuffle --out extended_results.json --append
 python run_multi.py    --models glm-5.2 --conditions full options shuffle --out extended_glm.json --append
+python run_multi.py    --models gemma2:9b qwen2.5:7b llama3.1:8b mistral:7b --lang zh --dataset dataset_zh.json --conditions full options shuffle --out chinese_local.json --append
+python run_multi.py    --models gemma2:9b qwen2.5:7b llama3.1:8b --lang zh --dataset cmexam_test_single5.json --conditions options shuffle full --out cmexam_local.json --append
 ```
 
 `run_multi.py` sends model names containing a colon, such as `qwen2.5:7b`, to a
@@ -110,6 +157,9 @@ The results also do not show that the models lack medical knowledge. A model tha
 scores 0.898 where its options-only score is 0.383 clearly knows something. The
 point is that the benchmark does not separate that knowledge from familiarity
 with how the items are written.
+
+A model that saw a question during training may recognize it from its options
+alone. This matters most for CMExam, which is public.
 
 The step that copies shared case descriptions depends on the header words used in
 these particular books. Six of the 100 banks contain no marked items, and groups

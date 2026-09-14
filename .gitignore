@@ -2,6 +2,9 @@
 # not ours to redistribute. features.json carries the derived quantities the
 # paper reports, under non-invertible ids, and is committed in its place.
 dataset.json
+dataset_zh.json
+dataset_zh_aligned.json
+zh_alignment_review.txt
 
 # Credentials
 .env
